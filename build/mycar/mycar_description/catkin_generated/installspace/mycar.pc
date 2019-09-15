@@ -1,0 +1,8 @@
+prefix=/home/aranne/mycar_ws/install
+
+Name: mycar
+Description: Description of mycar
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/aranne/mycar_ws/install/lib 
+Requires: 

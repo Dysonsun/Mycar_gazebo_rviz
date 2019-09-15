@@ -1,0 +1,2 @@
+mycar/mycar_description:mycar/mycar_gazebo:mycar/mycar_navigation
+-DCATKIN_DEVEL_PREFIX=/home/aranne/mycar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aranne/mycar_ws/install -G Unix Makefiles

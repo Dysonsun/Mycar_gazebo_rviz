@@ -1,0 +1,8 @@
+prefix=/home/aranne/mycar_ws/install
+
+Name: mycar_navigation
+Description: Description of mycar_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aranne/mycar_ws/install/lib 
+Requires: 
